@@ -87,15 +87,15 @@ void loop()
 ```               
 ### Circuit:
 
-![Output](?raw=true)
+![Output](https://github.com/VINUTHNA-2004/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/blob/main/e1.png?raw=true)
 
 ### Serial monitor:
 
-![Output](?raw=true)
+![Output](https://github.com/VINUTHNA-2004/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/blob/main/e2.png?raw=true)
 
 ### Distance vs measurement table:
 
-![Output](?raw=true)
+![Output](https://github.com/VINUTHNA-2004/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/blob/main/e3.png?raw=true)
 
 ### Average error = sum/ number of readings:
 
