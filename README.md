@@ -86,8 +86,17 @@ void loop()
 }
 ```               
 ### Circuit:
+
+![Output](?raw=true)
+
 ### Serial monitor:
+
+![Output](?raw=true)
+
 ### Distance vs measurement table:
+
+![Output](?raw=true)
+
 ### Average error = sum/ number of readings:
 
                 Average error = sum/ number of readings 
